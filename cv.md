@@ -3,7 +3,7 @@
 ## Contact info:
 
 - [VK](https://vk.com/dlaundead)
-- E-mail: ivan-pogorelov97a@gmail.com
+- E-mail: ivanpogorelov97a@gmail.com
 - Github: [ivan-pogorelov](https://github.com/ivan-pogorelov)
 
 ## Skills:
